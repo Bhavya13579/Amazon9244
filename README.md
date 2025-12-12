@@ -108,3 +108,13 @@ These are loaded directly into MySQL using LOAD DATA LOCAL INFILE, simulating re
 
 •	Business-first query design
 
+# Key Business Questions Answered
+
+What categories drive the majority of revenue?
+
+How does Prime membership impact order volume?
+
+Who are the highest-value customers?
+
+How revenue accumulates over time
+
